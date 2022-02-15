@@ -1,0 +1,47 @@
+/*esto es el sidebar*/
+.color-sidebar  {
+    background-color: #3D405B;
+    background-image: linear-gradient(180deg,#3d405b9d 10%,#3d405b32 100%);
+    background-size: cover;
+}
+/*esto es el header*/
+.header-color {
+    background-color: #3D405B;
+}
+/*texto de el admin*/
+.texto-blanco   {
+    color: #F4F1DE;
+}
+.campanita{
+    color:#F4F1DE;
+}
+
+.sidebar .sidebar-action {
+    text-align: center;
+    color: #F4F1DE;
+}
+
+.buttongo {
+    background-color: #81B29A;
+    color: #F4F1DE;
+}
+   
+.nav-items .nav-links span :hover{
+    font-size: 17px;
+    color: #81B29A ;
+}
+.campanita:hover{
+    color: #81B29A ; 
+}
+
+.ultimos {
+    list-style: none;
+}
+
+.topbarcss{
+    width: 100%;
+}
+
+.divmaldito{
+    width: 100%;
+}
